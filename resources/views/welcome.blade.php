@@ -30,7 +30,7 @@
                             Cointoad
                         </div>
                         <div class="w-1/4 sm:w-auto sm:flex text-right">
-                            <div class="flex">
+                            <div class="sm:flex mr-4 sm:mr-0">
                                 <img class="h-8 w-8 rounded-full inline-block" src="https://avatars0.githubusercontent.com/u/4724832?s=460&v=4" alt="">
                             </div>
                             <div class="hidden sm:block sm:flex sm:items-center ml-2">
@@ -223,7 +223,7 @@
             <!--End Price Chart-->
             <!--Start Card Part-->
             <div class="flex flex-wrap -mx-4">
-                <div class="w-full mb-6 md:mb-0 md:w-1/2 px-4 flex flex-col ">
+                <div class="w-full mb-6 lg:mb-0 lg:w-1/2 px-4 flex flex-col ">
                     <div class="bg-white rounded border flex-grow flex flex-col shadow">
                         <div class="border-b">
                             <div class="flex justify-between px-6  -mb-px">
@@ -351,7 +351,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="w-full md:w-1/2 px-4">
+                <div class="w-full lg:w-1/2 px-4">
                     <div class="bg-white rounded border  shadow">
                         <div class="border-b">
                             <div class="flex justify-between px-6  -mb-px">
